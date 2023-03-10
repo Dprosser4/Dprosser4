@@ -1,11 +1,8 @@
 
 
 ## :speech_balloon: Hello, GitHub!
-I'm Dylan a software engineer in Newport Beach, CA. Prior to web development, I led and trained teams of skilled technicians on large national equipment installation rollouts within the JanSan Industry. As someone who has always leveraged technology to my advantage, and having built a few websites using Wordpress and Shopify, I became interested software development when overseeing the redesign of the companies website, and creation of a custom back-end tracking software to monitor technicians progress on projects. 
-
-After that experience I was hooked! I decided to take my passion for software seriously and pursue a career in software development. I enrolled in a full immersion Web Development program at LearningFuze where I dedicated over 800 hours to learning both front-end and back-end development skills to build well-designed dynamic applications in a simulated work environment.
-
-With the technical abilities I've acquired and passion learning new ones, I would be a vital asset to any team of software developers. 
+I'm Dylan a software developer in Newport Beach, CA. I'm Dylan, a Newport Beach-based software engineer with prior experience leading and training teams in the JanSan Industry. My interest in software development sparked while overseeing a website redesign and creating a custom back-end tracking software. In my free time have too many hobbies to list but some of my favorites are cooking, sailing, playing guitar, and fixing cars. 
+ 
 
 - 📚 I'm currently practicing TypeScript and learning advanced React.
 - 🕹️ Fun Fact: I'm a also an accomplished sailor and compete in multiple races per year
@@ -36,3 +33,5 @@ With the technical abilities I've acquired and passion learning new ones, I woul
 
 ## 🖥️ Let's Connect
 [![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-Dylan%20Prosser-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/dprosser4/)
+
+![Dylans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dprosser4&hide=stars,contribs)
