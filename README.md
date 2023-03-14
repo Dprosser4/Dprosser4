@@ -1,7 +1,7 @@
 
 
 ## :speech_balloon: Hello, GitHub!
-I'm Dylan a software developer in Newport Beach, CA. I'm Dylan, a Newport Beach-based software engineer with prior experience leading and training teams in the JanSan Industry. My interest in software development sparked while overseeing a website redesign and creating a custom back-end tracking software. In my free time have too many hobbies to list but some of my favorites are cooking, sailing, playing guitar, and fixing cars. 
+I'm Dylan, a Newport Beach-based software engineer with prior experience leading and training teams in the JanSan Industry. My interest in software development sparked while overseeing a website redesign and creating a custom back-end tracking software. In my free time have too many hobbies to list but some of my favorites are cooking, sailing, playing guitar, and fixing cars. 
  
 
 - 📚 I'm currently practicing TypeScript and learning advanced React.
